@@ -1,4 +1,4 @@
-# Toplama fonksiyonu
+# Toplama fonksiyonu güncellendi
 def toplama(x, y):
     return x + y
 

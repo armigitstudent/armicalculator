@@ -2,7 +2,7 @@
 def toplama(x, y):
     return x + y
 
-# Çıkarma fonksiyonu
+# Çıkarma fonksiyoni
 def cikarma(x, y):
     return x - y
 
